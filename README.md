@@ -48,8 +48,8 @@ This repository contains an interactive Airlines Analytics Dashboard built using
 - **Average flight duration** of over 12 hours suggests long-haul domestic routes
 
 ## 🖼️ Dashboard Preview
-![Dashboard Overview](<img width="1500" height="805" alt="Airline Analytics Dashboard" src="https://github.com/user-attachments/assets/249c237e-5931-43b7-b771-249257229d90" />
-)
+![Dashboard Overview]<img width="1500" height="805" alt="Airline Analytics Dashboard" src="https://github.com/user-attachments/assets/ff4dfbcc-1c4d-4fa1-a090-ef6042e797d4" />
+
 
 *Main dashboard showing key metrics and visualizations*
 
